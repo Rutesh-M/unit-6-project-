@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 100px;
+    border: 10px dotted #ff00ea;
+  
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+
+input {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+button {
+    border: 5px double #ff00ea;
+    background-color: #0d0c0c;
+   
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+button:hover{
+  background-color:#ff00ea;
+  color:black;
+}
+img{
+    border: 5px solid #ff00ea;
+    width:200px;
+    height:200px;
+}
+
+
+.game-icon {
+  border: 5px double #ff00ea;
+    width: 200px;
+ border-radius: 100px;
+}
+
